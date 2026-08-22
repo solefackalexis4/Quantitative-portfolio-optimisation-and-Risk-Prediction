@@ -1,0 +1,27 @@
+# Data manipulation
+numpy
+pandas
+
+# Scientific computing
+scipy
+
+# Statistics and econometrics
+statsmodels
+
+# Machine Learning
+scikit-learn
+
+# Financial market data
+yfinance
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+ipykernel
+
+# Database
+SQLAlchemy
+psycopg[binary]
