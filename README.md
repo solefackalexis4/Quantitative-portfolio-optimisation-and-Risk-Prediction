@@ -783,7 +783,7 @@ Configure PostgreSQL according to the project documentation.
 
 ---
 
-# 👤 Author
+#  Author
 
 **Alexis José Guerin Anangmo Solefack**
 
