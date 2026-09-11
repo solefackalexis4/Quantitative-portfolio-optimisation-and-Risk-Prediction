@@ -25,3 +25,4 @@ ipykernel
 # Database
 SQLAlchemy
 psycopg[binary]
+python-dotenv
